@@ -1,0 +1,14 @@
+.dropdown-menu {
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.react-select-country {
+  min-width: 150px;
+  width: 100%;
+}
+
+.react-select-small {
+  min-width: 150px;
+  width: 100%;
+}
